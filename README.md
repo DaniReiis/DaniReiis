@@ -29,6 +29,14 @@ Me chamo Daniel dos Reis Neto, tenho 27 anos e sou natural de Sergipe.
 />
 <img 
     align="left" 
+    alt="csharp" 
+    title="csharp"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_256x256.png" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
