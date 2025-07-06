@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Daniel Reis
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor`**
 
 Me chamo Daniel dos Reis Neto, tenho 27 anos e sou natural de Sergipe.
 
